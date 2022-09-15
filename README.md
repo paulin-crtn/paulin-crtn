@@ -1,12 +1,10 @@
 # Hi 👋, I'm Paulin
 ## A Full-Stack Web Developer
 
-- 🚀 Ask me about **React**, **NextJS**,
-**NestJS**, **Laravel** and more ! 
-- 🌱 I’m currently
-learning **Docker**, **Github Action**, **Testing** 
-- 💬 You can reach me at <a href="mailto:contact@haftwald.com">contact@haftwald.com</a>
-- 🥸 See my <a href="https://stackoverflow.com/users/10547153/paulin-crtn" target="_blank">Stakoverflow</a> profile
+- 🚀 Ask me about **React**, **NextJS**, **NestJS**, **Laravel** and more ! 
+- 🌱 I’m currently learning **Docker**, **Github Action**, **Testing**
+- 💬 Reach me at <a href="mailto:contact@haftwald.com">contact@haftwald.com</a>
+- 👨‍💻 See my <a href="https://stackoverflow.com/users/10547153/paulin-crtn" target="_blank">Stakoverflow</a> profile
 
 ### Programming Languages
 <p align="left">
