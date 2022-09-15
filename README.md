@@ -1,5 +1,5 @@
-# Hi 👋, I'm Paulin
-## A Full-Stack Web Developer
+<h1 align="center">Hi 👋, I'm Paulin</h1>
+<h2 align="center">A Full-Stack Web Developer</h2>
 
 - 🚀 Ask me about **React**, **NextJS**,
 **NestJS**, **Laravel** and more ! 
