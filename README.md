@@ -1,5 +1,4 @@
-# Hi 👋, I'm Paulin
-## A Full-Stack Web Developer
+<img src="https://github.com/paulin-crtn/paulin-crtn/blob/main/profile-banner.jpg" alt="Github profile banner" />
 
 - ⭐️ Ask me about **React**, **NextJS**, **NestJS**, **Laravel** and more ! 
 - 🎒 I’m currently learning **Docker** and **Github Action**
