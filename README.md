@@ -1,9 +1,9 @@
 <img src="https://github.com/paulin-crtn/paulin-crtn/blob/main/profile-banner.jpg" alt="Github profile banner" />
 
 - ⭐️ Ask me about **React**, **NextJS**, **NestJS**, **Laravel** and more ! 
-- 🎒 I’m currently learning **Docker** and **Github Action**
-- ☔️ I have a strong interest in **testing** and **API documentation**
-- 👨‍💻 I'm also on <a href="https://stackoverflow.com/users/10547153/paulin-crtn" target="_blank">Stakoverflow</a>
+- 🔥 I’m currently learning **Docker** and **Github Action**
+- 🙈 I have a strong interest in **testing** and **API documentation**
+- 👨‍💻 I'm also on <a href="https://stackoverflow.com/users/10547153/paulin-crtn" target="_blank">Stackoverflow</a>
 
 ### Programming Languages
 <p align="left">
