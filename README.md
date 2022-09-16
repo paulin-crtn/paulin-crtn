@@ -1,3 +1,5 @@
+<h1 align="center">👋👋👋</h1>
+
 <img src="https://github.com/paulin-crtn/paulin-crtn/blob/main/profile-banner.jpg" alt="Github profile banner" />
 
 - ⭐️ Ask me about **React**, **NextJS**, **NestJS**, **Laravel** and more ! 
