@@ -4,7 +4,7 @@
 
 - ⭐️ Ask me about **React**, **NextJS**, **NestJS**, **Laravel** and more ! 
 - 🔥 I’m currently learning **Docker** and **Github Action**
-- 🙈 I have a strong interest in **testing** and **API documentation**
+- 🙈 I write **test** and **API documentation**
 - 👨‍💻 I'm also on <a href="https://stackoverflow.com/users/10547153/paulin-crtn" target="_blank">Stackoverflow</a>
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
