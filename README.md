@@ -2,10 +2,10 @@
 
 <img src="https://github.com/paulin-crtn/paulin-crtn/blob/main/profile-banner.jpg" alt="Github profile banner" />
 
-- ⭐️ Ask me about **React**, **NextJS**, **NestJS**, **Laravel** and more ! 
-- 🔥 I’m currently learning **Docker** and **Github Action**
-- 🙈 I write **test** and **API documentation**
-- 👨‍💻 I'm also on <a href="https://stackoverflow.com/users/10547153/paulin-crtn" target="_blank">Stackoverflow</a>
+- 🚀 I use **IaC** and **AWS** services: **Lambda**, **S3**, **DynamoDB**, **SQS** and more
+- 🤓 I’m currently learning **Docker** and **Github Action**
+- 💯 I write **tests** and **API documentation**
+- 💬 Contact me about **Typescript**-related frameworks and libraries
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 ### Programming Languages
